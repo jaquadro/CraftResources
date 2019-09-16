@@ -753,11 +753,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34"
-     inkscape:cx="-415.30218"
-     inkscape:cy="-140.31222"
+     inkscape:zoom="0.59"
+     inkscape:cx="-260.84688"
+     inkscape:cy="14.026064"
      inkscape:document-units="in"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="in"
      width="33in"
@@ -768,7 +768,7 @@
      gridtolerance="10"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -1027,18 +1027,23 @@
            id="text9870"
            y="-106.1086"
            x="-239.91241"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            xml:space="preserve"><tspan
-             style="stroke-width:0.26458335"
+             style="font-size:4.93888903px;line-height:1;stroke-width:0.26458335"
              y="-106.1086"
              x="-239.91241"
              id="tspan9868"
              sodipodi:role="line">Project Name</tspan><tspan
              id="tspan9872"
-             style="fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             y="-99.05304"
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-100.46415"
              x="-239.91241"
-             sodipodi:role="line">23 x 2.5 inch</tspan></text>
+             sodipodi:role="line">23 x 2.5 inch</tspan><tspan
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-94.81971"
+             x="-239.91241"
+             sodipodi:role="line"
+             id="tspan41916">Band - x2</tspan></text>
       </g>
       <path
          sodipodi:type="inkscape:offset"
@@ -1071,21 +1076,26 @@
          transform="translate(0,-0.77063109)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="-2.4410303"
-           y="-23.771881"
+           y="-18.166302"
            id="text9870-3"
            inkscape:label="info_text"><tspan
              sodipodi:role="line"
              id="tspan9868-2"
-             x="-2.4410303"
-             y="-23.771881"
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
+             x="-2.44103"
+             y="-18.166302"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
              sodipodi:role="line"
-             x="-2.4410307"
-             y="-16.716326"
-             style="text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             id="tspan9872-1">23 x 5.25 inch / 6</tspan></text>
+             x="-2.4410305"
+             y="-12.521856"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan9872-1">23 x 5.25 inch / 6</tspan><tspan
+             sodipodi:role="line"
+             x="-2.4410295"
+             y="-6.8774118"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan41920">Crown Panel - x6</tspan></text>
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -1123,21 +1133,26 @@
          inkscape:label="mark_group">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="-2.4410303"
-           y="-23.771881"
+           y="-17.94208"
            id="text9870-3-7"
            inkscape:label="info_text"><tspan
              sodipodi:role="line"
              id="tspan9868-2-9"
-             x="-2.4410303"
-             y="-23.771881"
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
+             x="-2.44103"
+             y="-17.94208"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
              sodipodi:role="line"
-             x="-2.4410307"
-             y="-16.716326"
-             style="text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             id="tspan9872-1-3">23 x 5.25 inch / 4</tspan></text>
+             x="-2.4410305"
+             y="-12.297633"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan9872-1-3">23 x 5.25 inch / 4</tspan><tspan
+             sodipodi:role="line"
+             x="-2.4410295"
+             y="-6.6531887"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan41922">Crown Panel - x4</tspan></text>
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -1174,21 +1189,26 @@
          transform="translate(0,-0.77063109)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="-11.843578"
-           y="-23.771881"
+           y="-18.614748"
            id="text9870-3-1"
            inkscape:label="info_text"><tspan
              sodipodi:role="line"
              id="tspan9868-2-1"
              x="-11.843578"
-             y="-23.771881"
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
+             y="-18.614748"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335">Project Name</tspan><tspan
              sodipodi:role="line"
              x="-11.843578"
-             y="-16.716326"
-             style="text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             id="tspan9872-1-32">23 x 5.25 inch / 5</tspan></text>
+             y="-12.970303"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan9872-1-32">23 x 5.25 inch / 5</tspan><tspan
+             sodipodi:role="line"
+             x="-11.843577"
+             y="-7.3258581"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan41918">Crown Panel - x5</tspan></text>
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -1215,6 +1235,46 @@
          d="m -12.14187,-137.19105 c -52.832,41.904753 -58.42001,133.350005 -58.42001,133.350005 l 116.83999,-4.2e-6 c 0,0 -5.46658,-91.4452478 -58.41998,-133.3500008 z"
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.25400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.03200006, 2.03200006;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <g
+       id="g41839"
+       inkscape:label="flock_features"
+       transform="rotate(-90,68.459986,49.87603)">
+      <rect
+         inkscape:label="flock_area"
+         transform="rotate(90)"
+         y="132.66835"
+         x="-1.771902"
+         height="68.769531"
+         width="73.765602"
+         id="rect41825"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:0.762, 0.762;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         inkscape:label="flock_label"
+         id="g41832">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect41827"
+           width="14.10657"
+           height="6.6614361"
+           x="28.89031"
+           y="197.61736"
+           transform="rotate(90)"
+           inkscape:label="flock_label_bg" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="30.261826"
+           y="202.61343"
+           id="text41823"
+           transform="rotate(90)"
+           inkscape:label="flock_label"><tspan
+             sodipodi:role="line"
+             id="tspan41821"
+             x="30.261826"
+             y="202.61343"
+             style="font-size:4.23333359px;fill:#666666;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Flock</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      inkscape:label="Pattern"
@@ -1232,7 +1292,7 @@
          x="2.3075049"
          style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          xml:space="preserve"><tspan
-           style="font-size:7.05555582px;stroke-width:0.26458335"
+           style="font-size:6.35000038px;stroke-width:0.26458335"
            y="127.25932"
            x="2.3075049"
            id="tspan13465"
@@ -1240,15 +1300,15 @@
       <text
          inkscape:label="web_address"
          id="text13471"
-         y="133.36932"
+         y="132.02399"
          x="2.8256474"
          style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          xml:space="preserve"><tspan
-           style="fill:#4d4d4d;stroke-width:0.26458335"
-           y="133.36932"
+           style="font-size:4.23333359px;fill:#4d4d4d;stroke-width:0.26458335"
+           y="132.02399"
            x="2.8256474"
            id="tspan13469"
-           sodipodi:role="line">texelsaurus.com</tspan></text>
+           sodipodi:role="line">texelsaurus.com/hats/project</tspan></text>
     </g>
   </g>
 </svg>
