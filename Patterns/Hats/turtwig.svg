@@ -18,7 +18,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="turtwig.svg">
   <title
-     id="title8093">Multi-page Landscape</title>
+     id="title37898">Turtwig Fleece Hat</title>
   <defs
      id="defs7432">
     <marker
@@ -826,11 +826,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63"
-     inkscape:cx="1234.0811"
-     inkscape:cy="264.67946"
+     inkscape:zoom="0.59"
+     inkscape:cx="775.68687"
+     inkscape:cy="518.64771"
      inkscape:document-units="in"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      width="33in"
@@ -841,7 +841,7 @@
      gridtolerance="10"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
@@ -998,9 +998,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Multi-page Landscape</dc:title>
+        <dc:title>Turtwig Fleece Hat</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date>2019-09</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Justin Aquadro</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language></dc:language>
+        <dc:identifier>https://texelsaurus.com/hats/turtwig</dc:identifier>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/4.0/">
@@ -1304,22 +1312,22 @@
          x="2.7209163"
          style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          xml:space="preserve"><tspan
-           style="font-size:7.05555582px;stroke-width:0.26458335"
+           style="font-size:6.35000038px;stroke-width:0.26458335"
            y="115.6838"
            x="2.7209163"
            sodipodi:role="line"
            id="tspan17659">Turtwig Fleece Hat</tspan></text>
       <text
          id="text13471"
-         y="121.7938"
-         x="3.2390587"
-         style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         y="121.01823"
+         x="2.5927587"
+         style="font-style:normal;font-weight:normal;font-size:4.23333359px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          xml:space="preserve"><tspan
-           style="fill:#4d4d4d;stroke-width:0.26458335"
-           y="121.7938"
-           x="3.2390587"
+           style="font-size:4.23333359px;fill:#4d4d4d;stroke-width:0.26458335"
+           y="121.01823"
+           x="2.5927587"
            id="tspan13469"
-           sodipodi:role="line">texelsaurus.com</tspan></text>
+           sodipodi:role="line">texelsaurus.com/hats/turtwig</tspan></text>
     </g>
     <g
        id="crown_group-3-6"
@@ -1331,21 +1339,21 @@
          transform="translate(0,-0.77063109)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="-11.843578"
-           y="-96.068054"
+           y="-106.56739"
            id="text9870-3-1-7"
            inkscape:label="info_text"><tspan
              sodipodi:role="line"
              id="tspan9868-2-1-2"
              x="-11.843578"
-             y="-96.068054"
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458335">Turtwig</tspan><tspan
+             y="-106.56739"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335">Turtwig</tspan><tspan
              sodipodi:role="line"
              x="-11.843578"
-             y="-89.012497"
-             style="text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             id="tspan9872-1-32-7">x5</tspan></text>
+             y="-100.92294"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             id="tspan9872-1-32-7">Crown Panel Tip - x5</tspan></text>
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -1373,7 +1381,7 @@
     </g>
     <g
        inkscape:label="crown_group_5"
-       transform="translate(86.985249,286.05242)"
+       transform="translate(84.294571,288.29465)"
        id="g14613"
        style="display:inline">
       <g
@@ -1385,18 +1393,23 @@
            id="text14601"
            y="-23.771881"
            x="-11.843578"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            xml:space="preserve"><tspan
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458335"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335"
              y="-23.771881"
              x="-11.843578"
              id="tspan14597"
              sodipodi:role="line">Turtwig</tspan><tspan
              id="tspan14599"
-             style="text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             y="-16.716326"
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-18.127436"
              x="-11.843578"
-             sodipodi:role="line">23 x 5.25 inch / 5</tspan></text>
+             sodipodi:role="line">23 x 5.25 inch / 5</tspan><tspan
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-12.482991"
+             x="-11.843579"
+             sodipodi:role="line"
+             id="tspan41924">Crown Panel Base - x5</tspan></text>
         <path
            inkscape:label="grain_line"
            style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.66500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9861-2-0-2);marker-end:url(#marker9901-7-1-9)"
@@ -1457,13 +1470,18 @@
            id="text9870-5"
            y="-42.485355"
            x="-122.77583"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            xml:space="preserve"><tspan
              id="tspan9872-5"
-             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+             style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
              y="-42.485355"
              x="-122.77583"
-             sodipodi:role="line">Turtwig</tspan></text>
+             sodipodi:role="line">Turtwig</tspan><tspan
+             style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.26458335"
+             y="-37.546467"
+             x="-122.77583"
+             sodipodi:role="line"
+             id="tspan41930">Outer band - Lower</tspan></text>
       </g>
       <path
          sodipodi:type="inkscape:offset"
@@ -1530,18 +1548,23 @@
            id="text9870-5-6"
            y="-106.1086"
            x="-239.91241"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            xml:space="preserve"><tspan
-             style="stroke-width:0.26458335"
+             style="font-size:4.93888903px;line-height:1;stroke-width:0.26458335"
              y="-106.1086"
              x="-239.91241"
              id="tspan9868-5-6"
              sodipodi:role="line">Turtwig</tspan><tspan
              id="tspan9872-5-8"
-             style="fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             y="-99.05304"
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-101.16971"
              x="-239.91241"
-             sodipodi:role="line">23 x 2.5 inch</tspan></text>
+             sodipodi:role="line">23 x 2.5 inch</tspan><tspan
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-96.23082"
+             x="-239.91241"
+             sodipodi:role="line"
+             id="tspan41926">Outer Band - Upper</tspan></text>
       </g>
       <path
          sodipodi:type="inkscape:offset"
@@ -1567,7 +1590,7 @@
        transform="rotate(180,504.92688,199.86428)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          x="276.00626"
          y="270.54166"
          id="text17629"
@@ -1576,12 +1599,12 @@
            id="tspan17627"
            x="276.00626"
            y="270.54166"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458335">Turtwig</tspan><tspan
+           style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335">Turtwig</tspan><tspan
            sodipodi:role="line"
            x="276.00626"
-           y="277.5972"
-           style="text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.26458335"
-           id="tspan17631">x2</tspan></text>
+           y="276.1861"
+           style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.26458335"
+           id="tspan17631">Stalk - x2</tspan></text>
       <path
          d="m 275.50195,177.02148 c -4.32139,0 -7.48797,2.52154 -9.10742,4.43164 -1.61945,1.91011 -2.45763,3.67184 -3.22265,5.50782 -1.53005,3.67196 -2.54822,7.7675 -3.50782,12.53906 -1.91919,9.54312 -3.34581,21.58598 -4.46875,33.61914 -2.24586,24.06632 -3.18359,47.9668 -3.18359,47.9668 a 9.5258825,9.5258825 0 0 0 9.51758,9.90039 h 27.93945 a 9.5258825,9.5258825 0 0 0 9.51758,-9.90039 c 0,0 -0.93726,-23.90048 -3.18164,-47.9668 -1.12219,-12.03316 -2.54819,-24.076 -4.4668,-33.61914 -0.9593,-4.77157 -1.97601,-8.86508 -3.50586,-12.53711 -0.76492,-1.83601 -1.60323,-3.59955 -3.22265,-5.50977 -1.61943,-1.91021 -4.78603,-4.43164 -9.10743,-4.43164 z"
          inkscape:href="#path17607"
@@ -1603,7 +1626,7 @@
     <g
        id="g17657"
        inkscape:label="leaf"
-       transform="translate(374.71156,-108.93923)">
+       transform="translate(379.19602,-108.49078)">
       <path
          sodipodi:type="inkscape:offset"
          inkscape:radius="9.5249977"
@@ -1625,19 +1648,19 @@
          id="text17649"
          y="247.02313"
          x="182.77216"
-         style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
          xml:space="preserve"
          inkscape:label="info"><tspan
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458335"
+           style="font-size:4.93888903px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.26458335"
            y="247.02313"
            x="182.77216"
            id="tspan17647"
            sodipodi:role="line">Turtwig</tspan><tspan
            id="tspan17651"
-           style="text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.26458335"
-           y="254.07869"
+           style="font-size:4.23333359px;line-height:1;text-align:center;text-anchor:middle;fill:#999999;stroke-width:0.26458335"
+           y="252.66757"
            x="182.77216"
-           sodipodi:role="line">x2</tspan></text>
+           sodipodi:role="line">Leaf - x4</tspan></text>
     </g>
     <g
        id="g17684"
@@ -1733,18 +1756,23 @@
            id="text9870-7"
            y="-106.1086"
            x="-239.91241"
-           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            xml:space="preserve"><tspan
-             style="stroke-width:0.26458335"
+             style="font-size:4.93888903px;line-height:1;stroke-width:0.26458335"
              y="-106.1086"
              x="-239.91241"
              id="tspan9868-0"
              sodipodi:role="line">Turtwig</tspan><tspan
              id="tspan9872-4"
-             style="fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
-             y="-99.05304"
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-100.46415"
              x="-239.91241"
-             sodipodi:role="line">23 x 2.5 inch</tspan></text>
+             sodipodi:role="line">23 x 2.5 inch</tspan><tspan
+             style="font-size:4.23333359px;line-height:1;fill:#7e7e7e;fill-opacity:1;stroke-width:0.26458335"
+             y="-94.81971"
+             x="-239.91241"
+             sodipodi:role="line"
+             id="tspan41928">Inner Band</tspan></text>
       </g>
       <path
          sodipodi:type="inkscape:offset"
@@ -1766,6 +1794,46 @@
          id="band_seam_line-0"
          sodipodi:nodetypes="cccscsscc"
          inkscape:label="seam_line" />
+    </g>
+    <g
+       id="g41839"
+       inkscape:label="flock_features"
+       transform="rotate(-90,21.100673,-51.660618)">
+      <rect
+         inkscape:label="flock_area"
+         transform="rotate(90)"
+         y="140.94112"
+         x="-1.771902"
+         height="60.496777"
+         width="73.765602"
+         id="rect41825"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:0.762, 0.762;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         inkscape:label="flock_label"
+         id="g41832">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect41827"
+           width="14.10657"
+           height="6.6614361"
+           x="28.89031"
+           y="197.61736"
+           transform="rotate(90)"
+           inkscape:label="flock_label_bg" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.64444494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="30.261826"
+           y="202.61343"
+           id="text41823"
+           transform="rotate(90)"
+           inkscape:label="flock_label"><tspan
+             sodipodi:role="line"
+             id="tspan41821"
+             x="30.261826"
+             y="202.61343"
+             style="font-size:4.23333359px;fill:#666666;stroke:none;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Flock</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
